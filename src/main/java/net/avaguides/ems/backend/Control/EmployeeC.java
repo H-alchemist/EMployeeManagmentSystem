@@ -1,6 +1,6 @@
 package net.avaguides.ems.backend.Control;
 
-import net.avaguides.ems.backend.Classes.Employees;
+import net.avaguides.ems.backend.Model.Employees;
 import net.avaguides.ems.backend.service.EmployeeS;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

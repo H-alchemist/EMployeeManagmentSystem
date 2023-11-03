@@ -1,6 +1,6 @@
 package net.avaguides.ems.backend.service;
 
-import net.avaguides.ems.backend.Classes.Employees;
+import net.avaguides.ems.backend.Model.Employees;
 import net.avaguides.ems.backend.Dao.EmployeeDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package net.avaguides.ems.backend.Classes;
+package net.avaguides.ems.backend.Model;
 
 
 import jakarta.persistence.*;

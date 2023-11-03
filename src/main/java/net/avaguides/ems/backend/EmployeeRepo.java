@@ -1,7 +1,7 @@
 package net.avaguides.ems.backend;
 
 
-import net.avaguides.ems.backend.Classes.Employees;
+import net.avaguides.ems.backend.Model.Employees;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
