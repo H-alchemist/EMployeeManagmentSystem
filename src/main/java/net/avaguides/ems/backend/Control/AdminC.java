@@ -37,7 +37,8 @@ public class AdminC {
             return new ResponseEntity<>(HttpStatus.OK);
 
         }else
-             return ResponseEntity.status(404).body("the email already  exist ");
+
+             return  ResponseEntity.status(404).body("the email already  exist ");
     }
 
 }
